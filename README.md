@@ -142,4 +142,3 @@ https://caninediet-desease.manus.space
 1. Knight A et al. (2022). PLOS ONE. https://doi.org/10.1371/journal.pone.0265662
 2. Barrett-Jolley R, German AJ (2024). PLOS ONE. https://doi.org/10.1371/journal.pone.0280173
 3. FDA CVM Recalls & Withdrawals. https://www.fda.gov/animal-veterinary/safety-health/recalls-withdrawals
-4. AVMA Raw Pet Foods Policy. https://www.avma.org/resources-tools/avma-policies/raw-or-undercooked-animal-source-protein-companion-animal-diets
